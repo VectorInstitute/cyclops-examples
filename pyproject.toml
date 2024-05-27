@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "bootcamp-template"
+name = "p2p-cyclops-workshop"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "A repository for the Principles to Practice: CyclOps for ML monitoring & evaluation workshop"
+authors = ["Vector AI Engineering <cyclops@vectorinstitute.ai>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

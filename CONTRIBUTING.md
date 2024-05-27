@@ -1,6 +1,6 @@
-# Contributing to bootcamp_template
+# Contributing to p2p_cyclops_workshop
 
-Thanks for your interest in contributing to the bootcamp_template!
+Thanks for your interest in contributing to the p2p_cyclops_workshop!
 
 To submit PRs, please fill out the PR template along with the PR. If the PR fixes an issue, don't forget to link the PR to the issue!
 
