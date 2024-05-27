@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "A repository for the Principles to Practice: CyclOps for ML monitoring & evaluation workshop"
 authors = ["Vector AI Engineering <cyclops@vectorinstitute.ai>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = ">=3.9, <3.12"
