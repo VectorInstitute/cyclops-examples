@@ -28,14 +28,9 @@ To get started with this bootcamp (*Change or modify the following steps based y
 2. *Include setup and installation instructions here. For additional documentation, refer to the `docs/` directory.*
 3. Begin with each topic in the `reference_implementations/` directory, as guided by the README files.
 
-## License
-*Add appropriate LICENSE for this bootcamp in the main directory.*
-This project is licensed under the terms of the [LICENSE] file located in the root directory of this repository.
-
-## Contribution
-*Add appropriate CONTRIBUTING.md for this bootcamp in the main directory.*
-To get started with contributing to our project, please read our [CONTRIBUTING.md] guide. 
+## Contributing
+To contribute to this repository, please read our [Contribution guidelines](CONTRIBUTING.md) guide.
 
 ## Contact Information
 
-For more information or help with navigating this repository, please contact [Vector AI ENG Team/Individual] at [Contact Email].
+For more information or help with navigating this repository, please contact [cyclops@vectorinstitute.ai](cyclops@vectorinstitute.ai)
