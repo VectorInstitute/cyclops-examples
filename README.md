@@ -1,10 +1,7 @@
-# Bootcamp Repository Template
+# Principles to Practice: CyclOps for ML monitoring & evaluation workshop
 
-This repository serves as the template sharing materials related bootcamps, workshops, or labs.
+## About
 
-## About [Bootcamp Name]
-
-*Add info on the bootcamp.*
 
 ## Repository Structure
 
