@@ -1,8 +1,8 @@
-# CyclOps for ML monitoring & evaluation workshop
+# CyclOps for clinical ML evaluation & monitoring workshop
 
 ## About
 
-Welcome to the **CyclOps for ML monitoring & evaluation workshop**! This workshop is meant to give you a hands-on introduction to use [CyclOps](https://github.com/VectorInstitute/cyclops) for evaluation and monitoring of your clinical ML model.
+Welcome to the **CyclOps for clinical ML evaluation & monitoring  workshop**! This workshop is meant to give you a hands-on introduction to use [CyclOps](https://github.com/VectorInstitute/cyclops) for evaluation and monitoring of your clinical ML model.
 
 Below you will find links to excercises for the workshop sessions!
 
