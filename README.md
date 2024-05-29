@@ -1,8 +1,8 @@
-# Principles to Practice: CyclOps for ML monitoring & evaluation workshop
+# CyclOps for ML monitoring & evaluation workshop
 
 ## About
 
-Welcome to the **Principles to Practice: CyclOps for ML monitoring & evaluation workshop**! This workshop is meant to give you a hands-on introduction to use CyclOps for evaluation and monitoring of your clinical ML model.
+Welcome to the **CyclOps for ML monitoring & evaluation workshop**! This workshop is meant to give you a hands-on introduction to use CyclOps for evaluation and monitoring of your clinical ML model.
 
 Below you will find links to excercises for the workshop sessions!
 
