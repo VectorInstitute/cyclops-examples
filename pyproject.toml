@@ -18,6 +18,10 @@ ruff = "^0.4.0"
 nbqa = { version = "^1.7.0", extras = ["toolchain"] }
 pip-audit = "^2.7.1"
 
+
+[tool.poetry.group.dev.dependencies]
+jupyterlab = "^4.2.1"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
