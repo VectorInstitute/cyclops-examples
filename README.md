@@ -10,6 +10,10 @@ Below you will find links to excercises for the workshop sessions!
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VectorInstitute/cyclops-workshop/blob/main/reference_implementations/basic/getting_started.ipynb)
 
+### Basic - Training
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VectorInstitute/cyclops-workshop/blob/main/reference_implementations/basic/training.ipynb)
+
 ### Advanced - Evaluation
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VectorInstitute/cyclops-workshop/blob/main/reference_implementations/advanced/evaluation.ipynb)
