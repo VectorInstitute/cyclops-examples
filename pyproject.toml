@@ -8,7 +8,7 @@ package-mode = false
 
 [tool.poetry.dependencies]
 python = ">=3.9, <3.12"
-pycyclops = "^0.2.8"
+pycyclops = { version = "^0.2.9", extras = ["xgboost"] }
 ucimlrepo = "^0.0.7"
 
 [tool.poetry.group.test.dependencies]
@@ -17,7 +17,6 @@ nbstripout = "^0.6.1"
 ruff = "^0.4.0"
 nbqa = { version = "^1.7.0", extras = ["toolchain"] }
 pip-audit = "^2.7.1"
-
 
 [tool.poetry.group.dev.dependencies]
 jupyterlab = "^4.2.1"
