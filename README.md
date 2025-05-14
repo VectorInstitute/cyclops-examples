@@ -1,4 +1,4 @@
-# CyclOps for clinical ML evaluation & monitoring workshop
+# Clinical ML evaluation & monitoring examples using cyclops
 
 ## About
 
